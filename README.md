@@ -2,7 +2,7 @@
 
 i'm a **full stack developer** who loves to build, break, and optimize things. whether it's crafting scalable web apps, designing interactive 3d spaces, writing low-level scripts, or hardening network defenses—if it's interesting, i'm probably deep in the codebase exploring it.
 
-🚀 **[check out my portfolio here!](kyconf.dev)** (i'm pretty proud of it!)
+🚀 **[check out my personal website here!](https://www.kyconf.dev/) or type in [kyconf.dev](https://www.kyconf.dev/)** (i'm pretty proud of it!)
 
 > "when you're curious, you find plenty of interesting things to do." — *walt disney*
 
@@ -31,7 +31,7 @@ i'm a **full stack developer** who loves to build, break, and optimize things. w
 
 ### 📡 let's connect
 
-*   **ask me anything about:** hobbies, games, rock climbing, music 🧗‍♂️🎵
+*   **ask me anything about:** hobbies, games, rock climbing, music, shows i've watched 🧗‍♂️🎵
 *   **currently learning:** networks, operating systems, how to live life 🔥
 
-❤️ **drop a line, open an issue, or just explore my repositories!**
+❤️ **if you liked what you've read, drop a follow! or leave me a message and i'll get back to you!**
