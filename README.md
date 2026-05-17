@@ -1,6 +1,6 @@
-# 👾 hey! i'm kyle!
+# 👾  hey, i'm kyle!
 
-i'm a **full stack developer** who loves to build, break, and optimize things. whether it's crafting scalable web apps, designing interactive 3d spaces, writing low-level scripts, or hardening network defenses—if it's interesting, i'm probably deep in the codebase exploring it.
+i'm a **full stack developer** who loves to build, break, and optimize things. whether it's crafting scalable web apps, designing interactive 3d spaces, buildings PCs, writing weird make-my-life easier scripts, or breaking apart old devices—if it's interesting, i'm probably deep in the codebase exploring it.
 
 🚀 **[check out my personal website here!](https://www.kyconf.dev/) or type in [kyconf.dev](https://www.kyconf.dev/)** (i'm pretty proud of it!)
 
@@ -15,6 +15,12 @@ i'm a **full stack developer** who loves to build, break, and optimize things. w
 *   **🛡️ cybersecurity:** deep-diving into network defense, cryptography architectures, and system hardening protocols.
 *   **🤖 hardware & robotics:** soldering components, hacking together custom pcbs, and deploying localized ai models on single-board computers. (check out my bmo robot!) 
 *   **🎮 game dev:** mechanics design, rapid prototyping, and scripting interactive gameplay loops.
+
+---
+
+###  🎓 certifications
+
+*   **🛡️ CompTIA Security+**
 
 ---
 
