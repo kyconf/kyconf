@@ -31,6 +31,7 @@ i'm a **full stack developer** who loves to build, break, and optimize things. w
 | **languages** | Python, Java, JavaScript, TypeScript, HTML5, CSS3, SQL, C, C#, C++, Luau |
 | **frameworks & libraries** | React, Next.js, Three.js, Node.js, Flask |
 | **backend & database** | Supabase, Firebase, PostgreSQL, REST APIs |
+| **cloud & deployment** | AWS, Azure, Heroku, Vercel |
 | **tools & hardware** | Git, Blender, Linux, Raspberry Pi, Embedded Systems |
 
 ---
