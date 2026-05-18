@@ -1,6 +1,6 @@
 # 👾  hey, i'm kyle!
 
-i'm a **full stack developer** who loves to build, break, and optimize things. whether it's crafting scalable web apps, designing interactive 3d spaces, buildings PCs, writing weird make-my-life easier scripts, or breaking apart old devices—if it's interesting, i'm probably deep in the codebase exploring it.
+i'm a **full stack developer** who loves to build, break, and optimize things. whether it's crafting scalable web apps, designing interactive 3d spaces, buildings PCs, writing weird make-my-life easier scripts, or breaking apart old devices—if it's interesting, i'm probably deep in the web/code exploring it.
 
 🚀 **[check out my personal website here!](https://www.kyconf.dev/) or type in [kyconf.dev](https://www.kyconf.dev/)** (i'm pretty proud of it!)
 
@@ -38,7 +38,7 @@ i'm a **full stack developer** who loves to build, break, and optimize things. w
 
 ### 📡 let's connect
 
-*   **ask me anything about:** hobbies, games, rock climbing, music, shows i've watched 🧗‍♂️🎵
+*   **ask me anything about:** hobbies, games, rock climbing, music, shows i've watched, stupid things i've made/coded 🧗‍♂️🎵
 *   **currently learning:** networks, operating systems, how to live life 🔥
 
 ❤️ **if you liked what you've read, drop a follow! or leave me a message and i'll get back to you!**
