@@ -38,7 +38,7 @@ i'm a **full stack developer** who loves to build, break, and optimize things. w
 
 ### 📡 let's connect
 
-*   **ask me anything about:** hobbies, games, rock climbing, music, shows i've watched, stupid things i've made/coded 🧗‍♂️🎵
+*   **ask me anything about:** hobbies, games, rock climbing, music, shows i've watched, stupid things i've made/coded! 
 *   **currently learning:** networks, operating systems, how to live life 🔥
 
-❤️ **if you liked what you've read, drop a follow! or leave me a message and i'll get back to you!**
+**if you liked what you've read, drop a follow! or leave me a message and i'll get back to you!**
