@@ -33,7 +33,7 @@ i'm a **full stack developer** who loves to build, break, and optimize things. w
 | **backend & database** | Supabase, Firebase, PostgreSQL, REST APIs |
 | **cloud & deployment** | AWS, Azure, Heroku, Vercel |
 | **tools & hardware** | Git, Blender, Linux, Raspberry Pi, Embedded Systems |
-
+| **security** | Nmap, Wireshark, Metasploit |
 ---
 
 ### 📡 let's connect
