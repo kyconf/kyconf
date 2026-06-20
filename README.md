@@ -18,7 +18,11 @@ i'm a **full stack developer** who loves to build, break, and optimize things. w
 
 ---
 
-###  🎓 certifications
+### 🎓 education
+
+I am currently pursuing a Bachelors of Science Specialized Honours in Computer Science at York University
+
+### 🪪 certifications
 
 *   **CompTIA Security+**
 
